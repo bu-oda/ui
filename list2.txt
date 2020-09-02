@@ -1,0 +1,4 @@
+./img/ドット_小田ロケット.png
+./img/kong_bab.png
+./img/のんでます_肉.png
+./img/ジャガイモ社員.png
